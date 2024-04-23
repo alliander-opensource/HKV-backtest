@@ -1,3 +1,4 @@
 openstef==3.4.8
 jupyter==1.0.0
 jupyterlab~=3.6.7
+xarray
